@@ -11,7 +11,7 @@ This project requires the following dependencies:
 ## Usage
 The SORT.m file has the main driver code. Provide the link of your video, mat structure for detections and ground truth. 
 
-##Liscense
+## Liscense
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 I hope this helps! Let me know if you have any questions.
